@@ -34,4 +34,4 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
- <img src="eyesfrogit.gif" alt="closing-profile-image" style="height: 80px; margin-left: 20px">
+ <img src="eyesfrogit.gif" alt="closing-profile-image" style="height: 100px; width: 300px; margin-left: 20px">
