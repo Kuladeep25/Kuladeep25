@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="gitprofile.gif" alt="welcome-image" style="width: 100%; height: auto">
+    <img src="gitprofile.gif" alt="welcome-image" style="width: 7000px; height: 350px">
 </div>
 
 <h1 align="center">Hi 👋, I'm Kuladeep Unumudi</h1>
