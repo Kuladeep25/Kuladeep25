@@ -54,13 +54,18 @@ Salesforce Administration · Apex Fundamentals · Lightning Web Components · Sa
 
 ## 🚀 Projects
 
+
+
+### 🩺 VitaSync — AI Healthcare Chatbot *(In Progress)*
+- Collaborating on a Master's project to develop an AI-powered healthcare chatbot using Large Language Models (LLMs).
+- Working with a team to explore conversational AI and healthcare-related use cases.
+- Currently contributing to the project's development and design.
+
+
 ### MigrationBOT — Salesforce Data Migration
 - Worked with Python and Simple-Salesforce for API-based data migration.
 - Used field mapping, filtering, validation checks, and logging to support data quality and traceability.
 
-### AI Healthcare Chatbot — VitaSync
-- Master's project focused on an AI healthcare chatbot using Large Language Models.
-- Exploring how AI-powered conversational interfaces can support healthcare-related use cases.
 
 ### Perceived Authenticity in AI-Mediated Social Selling
 - Research project exploring perceptions of AI-assisted communication.
