@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="gitprofile.gif" alt="welcome-image" style="width: 7000px; height: 350px">
+</div>
 
 <div align="center">
   <h1>Hi 👋, I'm Kuladeep Unumudi</h1>
