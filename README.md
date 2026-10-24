@@ -1,122 +1,140 @@
  <div align="center">
-  <img src="gitprofile.gif" alt="Profile banner" width="100%" height="250"/>
-  <h1>Kuladeep Unumudi</h1>
-  <h3>MSc Information Systems | Software Development | Data Engineering & AI</h3>
-  <p>Developing technology-driven solutions through software engineering, data integration, and applied AI.</p>
+    <img src="gitprofile.gif" alt="welcome-image" width="100%" height="350">
+</div>
+
+<div align="center">
+  <h1>Hi 👋, I'm Kuladeep Unumudi</h1>
+  <h3>MSc Information Systems Student | Software Development | Data & AI</h3>
+  <p><em>Building software, exploring data, and applying AI to real-world problems.</em></p>
   <p>
     <a href="https://www.linkedin.com/in/kuladeep-u-72500526a">
-      <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
     </a>
     <a href="mailto:kuladeep2544@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-555555?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
 
 ---
 
-## Professional Profile
+## 👨‍💻 About Me
 
-I am pursuing an **MSc in Information Systems at FH Aachen – University of Applied Sciences, Germany**, with an academic background in Electronics and Communication Engineering and professional experience as a Programmer Analyst at Cognizant Technology Solutions.
+I'm pursuing an **MSc in Information Systems at FH Aachen – University of Applied Sciences, Germany**, with a background in Electronics and Communication Engineering and professional experience as a **Programmer Analyst at Cognizant Technology Solutions**.
 
-My interests include software engineering, data integration, enterprise systems, business intelligence, and AI-enabled applications. Through professional experience, academic research, and project-based development, I am building expertise in designing practical solutions that connect software, data, and business processes.
+I'm interested in building practical software solutions, working with data, integrating enterprise systems, and exploring AI-powered applications.
 
-- **Education:** MSc Information Systems, FH Aachen
-- **Professional experience:** Programmer Analyst, Cognizant Technology Solutions
-- **Technical focus:** Application development, data migration, APIs, and database integration
-- **Research interests:** Applied AI, healthcare interoperability, and data-driven systems
-- **Location:** Aachen, Germany
+- 🎓 MSc Information Systems student at FH Aachen.
+- 💼 Former Programmer Analyst at Cognizant Technology Solutions.
+- 💻 Interested in full-stack development, databases, and system integration.
+- 📊 Exploring data science, statistical analysis, and business intelligence.
+- 🤖 Working on projects involving conversational AI and healthcare interoperability.
+- 🔄 Experienced with Salesforce technologies and Python-based data migration.
+- 🤝 Open to collaborating on software, data, AI, and digital transformation projects.
+- 📍 Aachen, Germany.
+- 📫 [kuladeep2544@gmail.com](mailto:kuladeep2544@gmail.com)
 
-## Technical Competencies
+## 🧰 Technical Skills
 
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Python, Java, C and C++"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Python, Java, C, C++"/>
 </p>
 
-**Application Development & Tools**
+**Web Development & System Integration**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github" alt="HTML, CSS, JavaScript, React, Node.js, Express, Git and GitHub"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github" alt="HTML, CSS, JavaScript, React, Node.js, Express, Git, GitHub"/>
 </p>
 
-**Databases**
+**Databases & Data**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL"/>
 </p>
 
-**Data & Integration**
 - Python-based data processing and migration
 - SQL and relational databases
-- API integration, field mapping, and data validation
+- API integration and data validation
+- Data analysis and statistical methods — currently developing
 - Business analytics and dashboard development
-- Statistical methods and data science — currently developing
 
-**Salesforce Technologies**
-- Salesforce Administration
-- Apex fundamentals
-- Lightning Web Components (LWC)
-- Salesforce Data Cloud
-- Simple-Salesforce and API-based data migration
+**Salesforce**
 
-## Selected Projects
+Salesforce Administration · Apex Fundamentals · Lightning Web Components · Salesforce Data Cloud · Simple-Salesforce
 
-### NOVA Store — Full-Stack E-Commerce Platform
-*System Integration Project | In Progress*
+**AI & Enterprise Systems**
 
-Developing an e-commerce application integrating a web frontend, backend services, and a relational database.
+LLM-powered applications · Healthcare interoperability · FHIR and OMOP research · GDPR and consent management · ERP data exchange · Business process automation
 
-- Implementing a React-based user interface and a Node.js/Express backend.
-- Integrating PostgreSQL for persistent application data.
-- Developing customer and administrator workflows for catalogue and order management.
-- Working on an administrative dashboard for sales, revenue, and product analytics.
-- Exploring ERP product import and data exchange workflows.
+## 🚀 Projects
 
-**Technologies:** React, JavaScript, Node.js, Express, PostgreSQL, Git.
+### 🛍️ NOVA Store — Full-Stack E-Commerce Platform
+*System Integration | In Progress*
 
-### VitaSync — AI Healthcare Chatbot
+Developing a full-stack e-commerce application as part of the System Integration course at FH Aachen.
+
+- Building a React frontend with a Node.js and Express backend.
+- Integrating PostgreSQL for data persistence.
+- Developing customer and administrator workflows.
+- Working on product catalogue management, cart and checkout, and order management.
+- Developing an admin dashboard for sales, revenue, and product analytics.
+- Working on ERP product import and data exchange.
+
+**Tech stack:** React · JavaScript · Node.js · Express · PostgreSQL · Git
+
+### 🩺 VitaSync — AI Healthcare Chatbot
 *Master's Project | In Progress*
 
 Collaborating on an AI-powered healthcare chatbot using Large Language Models (LLMs).
 
 - Exploring conversational AI for healthcare-related use cases.
-- Researching healthcare data interoperability, including FHIR and OMOP.
-- Contributing to work involving consent management, data privacy, and GDPR requirements.
-- Exploring accessible explanations of health metrics and clear non-diagnostic boundaries.
+- Researching healthcare interoperability standards, including FHIR and OMOP.
+- Contributing to research on consent management, privacy, and GDPR requirements.
+- Exploring plain-language explanations of health metrics and non-diagnostic boundaries.
+- Supporting research, documentation, and project design.
 
-**Focus areas:** Applied AI, healthcare data interoperability, privacy, and system design.
+**Focus:** LLMs · Healthcare Data · Responsible AI · Privacy · System Design
 
-### MigrationBOT — Salesforce Data Migration
+### 🔄 MigrationBOT — Salesforce Data Migration
 
-Worked with Python and Simple-Salesforce to support API-based Salesforce data migration.
+Worked with Python and Simple-Salesforce for API-based Salesforce data migration.
 
-- Applied field mapping and filtering to migration workflows.
-- Used validation checks and logging to support data quality and traceability.
-- Worked with Salesforce APIs for data transfer.
+- Used field mapping and filtering.
+- Applied validation checks and logging.
+- Focused on data quality and traceability.
 
-**Technologies:** Python, Simple-Salesforce, Salesforce APIs.
+**Tech stack:** Python · Simple-Salesforce · Salesforce APIs
 
-### Perceived Authenticity in AI-Mediated Social Selling
+### 📊 Perceived Authenticity in AI-Mediated Social Selling
 *Research Project*
 
-Investigated AI-assisted communication styles and their relationship to perceived authenticity in social selling.
+Explored AI-assisted communication styles and their relationship with perceived authenticity in social selling.
 
 - Examined generic, personalized, and human-like AI communication approaches.
 - Worked with campaign observations and survey responses.
-- Contributed to research analysis and academic reporting.
+- Contributed to research analysis and academic writing.
 
-**Focus areas:** AI-assisted communication, survey research, and data analysis.
+**Focus:** AI Communication · Survey Research · Data Analysis
 
-### SmartVend — Vending Machine Controller
-*Academic Software Engineering Project*
+### 🏪 SmartVend — Vending Machine Controller
+*Academic Project*
 
-Worked on requirements analysis and structured software design for a vending machine controller.
+Worked on software requirements and structured system design for a vending machine controller.
 
-**Focus areas:** Requirements engineering, functional specifications, and software design.
+**Focus:** Software Engineering · Requirements Analysis · System Design
 
-## Professional Experience
+## 📚 Current Learning & Research
+
+- 📈 Statistical Methods and Data Science
+- ☕ Java programming and software development
+- 🔗 Enterprise System Integration
+- 🧠 Large Language Models and AI applications
+- 🏥 Healthcare data interoperability and privacy
+- ⚙️ Business process automation and digital transformation
+
+## 💼 Experience
 
 **Programmer Analyst — Cognizant Technology Solutions**  
 *July 2025 – March 2026*
@@ -127,7 +145,7 @@ Worked on requirements analysis and structured software design for a vending mac
 **Web Development Intern — YHills**  
 *May 2023 – August 2023*
 
-## Education
+## 🎓 Education
 
 **MSc Information Systems**  
 FH Aachen – University of Applied Sciences, Germany | 2026 – Present
@@ -135,28 +153,22 @@ FH Aachen – University of Applied Sciences, Germany | 2026 – Present
 **B.Tech Electronics and Communication Engineering**  
 Sreenidhi Institute of Science and Technology, India | 2021 – 2025
 
-## Current Development Areas
+## 🌐 Connect With Me
 
-- Statistical methods and data science
-- Java programming and software development
-- Enterprise system integration and data exchange
-- AI applications and Large Language Models
-- Healthcare interoperability and responsible data management
-
-## Contact
-
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/kuladeep-u-72500526a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Kuladeep_Unumudi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/kulxdeep/">
-    <img src="https://img.shields.io/badge/Instagram-Profile-555555?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-kulxdeep-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:kuladeep2544@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-<p align="center"><em>Continuous learning, thoughtful engineering, and practical innovation.</em></p>
+<p align="center">
+  <em>Always learning, building, researching, and improving — one project at a time.</em>
+</p>
